@@ -1,0 +1,35 @@
+{
+  "customerList": [
+    {
+      "customerId": "id1",
+      "name": "Elijah",
+      "phone": "01234567890",
+      "address": "65 Le Loi",
+      "note": ""
+    },
+    {
+      "customerId": "id2",
+      "name": "Liam",
+      "phone": "01234567890",
+      "address": "65 Le Loi",
+      "note": ""
+    },
+    {
+      "customerId": "id3",
+      "name": "Noah",
+      "phone": "01234567890",
+      "address": "65 Le Loi",
+      "note": ""
+    },
+    {
+      "customerId": "id4",
+      "name": "Oliver",
+      "phone": "01234567890",
+      "address": "65 Le Loi",
+      "note": ""
+    },
+  ],
+  "profile": {
+    "name": "dgh"
+  }
+}
